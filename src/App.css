@@ -1,10 +1,10 @@
 @import "tailwindcss";
 
-@theme {
+:root {
   --color-blue-200: oklch(0.83 0.16 120 / 82%);
   --color-blue-800: #002a5a;
   --color-blue-500: #183f6a;
   --color-blue-200: #7f95ac;
   --color-blue-100: #a6b4c5;
-  --color-green-200:#3bd8ca;
+  --color-green-200: #3bd8ca;
 }
